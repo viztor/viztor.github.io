@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[the Ark 42]]></title>
-  <subtitle><![CDATA[Found answer from origin.]]></subtitle>
+  <title><![CDATA[ARK 42]]></title>
+  <subtitle><![CDATA[FOUND ANSWER FROM ORIGIN]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://viztor.me/"/>
-  <updated>2014-05-31T15:10:58.745Z</updated>
+  <updated>2014-05-31T16:11:26.468Z</updated>
   <id>http://viztor.me/</id>
   
   <author>
