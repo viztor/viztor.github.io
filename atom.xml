@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Life is a journey, and answers are found at the origin.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://viztor.me/"/>
-  <updated>2014-06-02T03:16:24.175Z</updated>
+  <updated>2014-06-02T15:40:23.692Z</updated>
   <id>http://viztor.me/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[英语听力播放器]]></title>
-    <link href="http://viztor.me/2014/06/02/%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E6%92%AD%E6%94%BE%E5%99%A8/"/>
-    <id>http://viztor.me/2014/06/02/英语听力播放器/</id>
+    <title><![CDATA[Player for Listening Test in English]]></title>
+    <link href="http://viztor.me/2014/06/02/Player-for-Listening-Test-in-English/"/>
+    <id>http://viztor.me/2014/06/02/Player-for-Listening-Test-in-English/</id>
     <published>2014-06-02T02:32:56.000Z</published>
-    <updated>2014-06-02T03:08:36.000Z</updated>
+    <updated>2014-06-02T10:08:40.000Z</updated>
     <content type="html"><![CDATA[<p>&#x653E;&#x5047;&#x8FD9;&#x4E24;&#x5929;&#x597D;&#x50CF;&#x8981;&#x505A;&#x82F1;&#x8BED;&#x542C;&#x529B;&#x6D4B;&#x8BD5;&#x3002;&#x542C;&#x529B;&#x8FD8;&#x8981;&#x53BB;&#x7F51;&#x4E0A;&#x4E0B;&#x8F7D;&#xFF0C;&#x6240;&#x4EE5;&#x4E00;&#x65F6;&#x624B;&#x75D2;&#xFF0C;&#x5C31;&#x51C6;&#x5907;&#x6298;&#x817E;&#x4E2A;&#x64AD;&#x653E;&#x5668;&#x73A9;&#x73A9;&#x3002;</p>
 <p>&#x672C;&#x6765;&#x6253;&#x7B97;&#x4ECE;&#x5934;&#x5F00;&#x59CB;&#x505A;&#xFF0C;&#x4E0D;&#x8FC7;&#x65E2;&#x7136;&#x53D1;&#x73B0;&#x4E86; <a href="http://www.kunr.me/" title="Kunnr &#x7684;&#x535A;&#x5BA2;" target="_blank" rel="external">Kunr &#x7684;&#x535A;&#x5BA2;</a> &#x4E0A;&#x6709;<a href="http://www.kunr.me/fm" title="Kunnr &#x7684;&#x7535;&#x53F0;" target="_blank" rel="external"> &#x7535;&#x53F0; </a>&#x3002;&#x5C31;&#x53BB;&#x8981;&#x4E86;&#x4E2A;&#x6E90;&#x7801;&#x3002;<br> &#x4EE3;&#x7801;&#x662F;&#x6258;&#x7BA1;&#x5728; Github &#x4E0A;&#x9762;&#x7684;&#x3002;&#x7528;&#x4E86; HTML5 &#x7684; Audio API&#xFF0C;JavaScript+jQuery &#x63A7;&#x5236;&#x64AD;&#x653E;&#x5668;&#xFF0C;CSS3 &#x6837;&#x5F0F;&#x3002;</p>
 <p>&#x56E0;&#x4E3A;&#x9ED8;&#x8BA4;&#x7684;&#x6837;&#x5F0F;&#x5DF2;&#x7ECF;&#x6BD4;&#x8F83;&#x7B26;&#x5408;&#x5BA1;&#x7F8E;&#x4E86;&#xFF08;&#x5176;&#x5B9E;&#x5C31;&#x662F;&#x61D2;&#x5427;&#xFF01;&#x6454;&#x684C;&#x3002;&#xFF09;<br>&#x6240;&#x4EE5;&#x76EE;&#x524D;&#x770B;&#x8D77;&#x6765;&#x6837;&#x5F0F;&#x548C; Kunr &#x7684;&#x7535;&#x53F0;&#x51E0;&#x4E4E;&#x662F;&#x4E00;&#x6A21;&#x4E00;&#x6837;&#x7684; -_-#<br>&#x522B;&#x626D;&#x7684;&#x5730;&#x65B9;&#x505A;&#x4E86;&#x4E00;&#x70B9;&#x4FEE;&#x6539;&#x3002;<br>UI &#x4E0A;&#x6709;&#x5F88;&#x591A;&#x7684;&#x7EC6;&#x8282;&#x4FEE;&#x6539;&#x3002;&#x4F46;&#x662F;&#x53EF;&#x80FD;&#x4E0D;&#x592A;&#x770B;&#x5F97;&#x51FA;&#x6765; XD&#x3002;<br>&#x6BD4;&#x5982;&#x8C03;&#x6574;&#x4E86;&#x64AD;&#x653E;&#x5217;&#x8868;&#x9879;&#x76EE;&#x7684;&#x5BBD;&#x9AD8;&#xFF0C;&#x83DC;&#x5355;&#x52A8;&#x753B;&#xFF0C;&#x5728;&#x6B64;&#x4E0D;&#x8868;&#x3002;</p>
@@ -50,8 +50,8 @@
   
   <entry>
     <title><![CDATA[Hello, Hexo!]]></title>
-    <link href="http://viztor.me/2014/05/31/hello-hexo/"/>
-    <id>http://viztor.me/2014/05/31/hello-hexo/</id>
+    <link href="http://viztor.me/2014/05/31/Hello-Hexo/"/>
+    <id>http://viztor.me/2014/05/31/Hello-Hexo/</id>
     <published>2014-05-31T06:53:00.000Z</published>
     <updated>2014-06-02T03:12:43.000Z</updated>
     <content type="html"><![CDATA[<p> &#x73B0;&#x5728;&#xFF0C;<br>Viz &#x5F00;&#x59CB;&#x7528; Hexo &#x6765;&#x5199;&#x535A;&#x5BA2;&#x5566;&#xFF01;</p>
