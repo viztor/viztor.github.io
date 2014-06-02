@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[ARK 42]]></title>
-  <subtitle><![CDATA[ROADS ARE LONG, FIND ANSWER FROM ORIGIN]]></subtitle>
+  <title><![CDATA[Ark 42]]></title>
+  <subtitle><![CDATA[Life is a journey, and answers are always found at the origin.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://viztor.me/"/>
-  <updated>2014-06-01T03:06:16.239Z</updated>
+  <updated>2014-06-02T02:27:54.087Z</updated>
   <id>http://viztor.me/</id>
   
   <author>
