@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Life is a journey, and answers are found at the origin.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://viztor.me/"/>
-  <updated>2014-06-05T10:42:59.156Z</updated>
+  <updated>2014-06-05T10:44:52.011Z</updated>
   <id>http://viztor.me/</id>
   
   <author>
@@ -18,15 +18,15 @@
     <title><![CDATA[]]></title>
     <link href="http://viztor.me/2014/06/05/Hello-Hexo/"/>
     <id>http://viztor.me/2014/06/05/Hello-Hexo/</id>
-    <published>2014-06-05T10:41:43.000Z</published>
-    <updated>2014-06-05T10:41:43.000Z</updated>
-    <content type="html"><![CDATA[<p>title: &#x2018;Hello, Hexo!&#x2019;<br>date: 2014-05-31 14:53:64<br>tags:</p>
+    <published>2014-06-05T10:44:29.000Z</published>
+    <updated>2014-06-05T10:44:29.000Z</updated>
+    <content type="html"><![CDATA[<p>title: &#x2018;Hello, Hexo!&#x2019;<br>date: 2014-05-31 14:53:64<br>tags: </p>
 <ul>
 <li>Blog</li>
 <li>Hexo</li>
 <li>Node.js</li>
 </ul>
-<p>category:</p>
+<p>category: </p>
 <h2 id="-_Tech">- Tech</h2>
 <p> &#x73B0;&#x5728;&#xFF0C;&#x5F00;&#x59CB;&#x4F7F;&#x7528; <a href="hexo.io">Hexo</a>&#xFF01;</p>
 <h2 id="&#x5177;&#x4F53;&#x8FC7;&#x7A0B;&#x7A0D;&#x540E;&#x66F4;&#x65B0;&#x3002;"> &#x5177;&#x4F53;&#x8FC7;&#x7A0B;&#x7A0D;&#x540E;&#x66F4;&#x65B0;&#x3002;</h2>
@@ -40,13 +40,13 @@
     <title><![CDATA[]]></title>
     <link href="http://viztor.me/2014/06/05/Player-for-Listening-Test-in-English/"/>
     <id>http://viztor.me/2014/06/05/Player-for-Listening-Test-in-English/</id>
-    <published>2014-06-05T10:41:39.000Z</published>
-    <updated>2014-06-05T10:41:39.000Z</updated>
-    <content type="html"><![CDATA[<p>title: &#x2018;Player for Listening Test in English&#x2019;<br>date: 2014-06-02 10:32:56<br>tags:</p>
+    <published>2014-06-05T10:44:00.000Z</published>
+    <updated>2014-06-05T10:44:00.000Z</updated>
+    <content type="html"><![CDATA[<p>title: &#x2018;Player for Listening Test in English&#x2019;<br>date: 2014-06-02 10:32:56<br>tags: </p>
 <ul>
 <li>HTML5</li>
 <li>Javascript</li>
-<li>CSS<br>category:</li>
+<li>CSS<br>category: </li>
 <li>Works</li>
 </ul>
 <hr>
@@ -123,7 +123,7 @@
     <link href="http://viztor.me/2014/06/02/%5B2,%20June%5D-One-day-in-Shanghai/"/>
     <id>http://viztor.me/2014/06/02/[2, June]-One-day-in-Shanghai/</id>
     <published>2014-06-02T10:03:43.000Z</published>
-    <updated>2014-06-05T10:41:54.000Z</updated>
+    <updated>2014-06-05T10:44:31.000Z</updated>
     <content type="html"><![CDATA[<p>6 &#x6708; 2 &#x53F7;&#xFF0C;&#x53BB;&#x4E86;&#x4E0A;&#x6D77;&#x3002;<br> &#x6628;&#x5929;&#x665A;&#x4E0A;&#x505A;&#x7684;&#x82F1;&#x8BED;&#x542C;&#x529B;&#x64AD;&#x653E;&#x5668;&#x90A3;&#x7BC7;&#x6587;&#x7AE0;&#xFF0C;&#x5C31;&#x662F;&#x5728;&#x8F66;&#x4E0A;&#x5199;&#x7684;&#x3002;<br> &#x53BB;&#x7684;&#x65F6;&#x5019;&#x505A;&#x7684;&#x662F;&#x9AD8;&#x94C1;&#x3002;&#x5FEB;&#x8981;&#x5230;&#x7684;&#x65F6;&#x5019;&#x3002;</p>
 ]]></content>
     
